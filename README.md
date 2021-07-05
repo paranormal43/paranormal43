@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @paranormal43
 - 👀 I’m interested in Programing Python, HTML, CSS, JAVA, SQL
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML / CSS / JavaScript and AWS
 - 📫 How to reach me ...
 
 <!---
